@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1461101478 source:c:\users\helene\desktop\cours\new_sokoban_solver\elements.cpp
+	"elements.h"
+
+1461101478 c:\users\helene\desktop\cours\new_sokoban_solver\elements.h
+	<vector>
+	<iostream>
+
+1461878450 source:c:\users\helene\desktop\cours\new_sokoban_solver\graphic.cpp
+	"graphic.h"
+
+1458474090 c:\users\helene\desktop\cours\new_sokoban_solver\graphic.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1461947787 source:c:\users\helene\desktop\cours\new_sokoban_solver\main.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<iostream>
+
+1461945857 c:\users\helene\desktop\cours\new_sokoban_solver\maze.h
+	<vector>
+	<string>
+	"elements.h"
+	<queue>
+	<stack>
+
+1458474090 c:\users\helene\desktop\cours\new_sokoban_solver\utils\console.h
+	<iostream>
+
+1461097643 c:\users\helene\desktop\cours\new_sokoban_solver\utils\coord.h
+
+1461949159 source:c:\users\helene\desktop\cours\new_sokoban_solver\maze.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1458474090 source:c:\users\helene\desktop\cours\new_sokoban_solver\utils\console.cpp
+	"console.h"
+	<conio.h>
+	<allegro.h>
+	<winalleg.h>
+
+1458474090 source:c:\users\helene\desktop\cours\new_sokoban_solver\utils\coord.cpp
+	"coord.h"
+
+1461101480 source:c:\users\alexandre\desktop\new_sokoban_solver\elements.cpp
+	"elements.h"
+
+1461101480 c:\users\alexandre\desktop\new_sokoban_solver\elements.h
+	<vector>
+	<iostream>
+
+1461878452 source:c:\users\alexandre\desktop\new_sokoban_solver\graphic.cpp
+	"graphic.h"
+
+1458477690 c:\users\alexandre\desktop\new_sokoban_solver\graphic.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1462012576 source:c:\users\alexandre\desktop\new_sokoban_solver\main.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<iostream>
+
+1461945858 c:\users\alexandre\desktop\new_sokoban_solver\maze.h
+	<vector>
+	<string>
+	"elements.h"
+	<queue>
+	<stack>
+
+1458477690 c:\users\alexandre\desktop\new_sokoban_solver\utils\console.h
+	<iostream>
+
+1461097644 c:\users\alexandre\desktop\new_sokoban_solver\utils\coord.h
+
+1462013198 source:c:\users\alexandre\desktop\new_sokoban_solver\maze.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1458477690 source:c:\users\alexandre\desktop\new_sokoban_solver\utils\console.cpp
+	"console.h"
+	<conio.h>
+	<allegro.h>
+	<winalleg.h>
+
+1458477690 source:c:\users\alexandre\desktop\new_sokoban_solver\utils\coord.cpp
+	"coord.h"
+
+1462119654 source:c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\elements.cpp
+	"elements.h"
+
+1462119654 c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\elements.h
+	<vector>
+	<iostream>
+
+1461878452 source:c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\graphic.cpp
+	"graphic.h"
+
+1458477690 c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\graphic.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1462138351 source:c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\main.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<iostream>
+
+1462139340 c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\maze.h
+	<vector>
+	<string>
+	"elements.h"
+	<queue>
+	<stack>
+	<algorithm>
+
+1458477690 c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\utils\console.h
+	<iostream>
+
+1461097644 c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\utils\coord.h
+
+1462139340 source:c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\maze.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1458477690 source:c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\utils\console.cpp
+	"console.h"
+	<conio.h>
+	<allegro.h>
+	<winalleg.h>
+
+1458477690 source:c:\users\alexandre\desktop\projet gzpahes\new_sokoban_solver\utils\coord.cpp
+	"coord.h"
+
+1462116054 source:c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\elements.cpp
+	"elements.h"
+
+1462116054 c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\elements.h
+	<vector>
+	<iostream>
+
+1461874852 source:c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\graphic.cpp
+	"graphic.h"
+
+1458474090 c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\graphic.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1510049180 source:c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\main.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<iostream>
+
+1462135740 c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\maze.h
+	<vector>
+	<string>
+	"elements.h"
+	<queue>
+	<stack>
+	<algorithm>
+
+1458474090 c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\utils\console.h
+	<iostream>
+
+1461094044 c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\utils\coord.h
+
+1463846667 source:c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\maze.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1458474090 source:c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\utils\console.cpp
+	"console.h"
+	<conio.h>
+	<allegro.h>
+	<winalleg.h>
+
+1458474090 source:c:\users\alexandre\desktop\projet theorie des graphes 2016\new_sokoban_solver\utils\coord.cpp
+	"coord.h"
+
